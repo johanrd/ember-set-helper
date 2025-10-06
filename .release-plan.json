@@ -2,16 +2,20 @@
   "solution": {
     "ember-set-helper": {
       "impact": "minor",
-      "oldVersion": "3.0.1",
-      "newVersion": "3.1.0",
+      "oldVersion": "3.1.0",
+      "newVersion": "3.2.0",
       "constraints": [
         {
           "impact": "minor",
           "reason": "Appears in changelog section :rocket: Enhancement"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
         }
       ],
       "pkgJSONPath": "./ember-set-helper/package.json"
     }
   },
-  "description": "## Release (2025-10-04)\n\nember-set-helper 3.1.0 (minor)\n\n#### :rocket: Enhancement\n* `ember-set-helper`\n  * [#80](https://github.com/adopted-ember-addons/ember-set-helper/pull/80) feat: add index re-export ([@aklkv](https://github.com/aklkv))\n\n#### :memo: Documentation\n* [#82](https://github.com/adopted-ember-addons/ember-set-helper/pull/82) Update README.md with index re-export example for strict mode ([@SergeAstapov](https://github.com/SergeAstapov))\n* [#74](https://github.com/adopted-ember-addons/ember-set-helper/pull/74) Update README.md with strict mode import example ([@johanrd](https://github.com/johanrd))\n\n#### Committers: 3\n- Alexey Kulakov ([@aklkv](https://github.com/aklkv))\n- Sergey Astapov ([@SergeAstapov](https://github.com/SergeAstapov))\n- [@johanrd](https://github.com/johanrd)\n"
+  "description": "## Release (2025-10-06)\n\nember-set-helper 3.2.0 (minor)\n\n#### :rocket: Enhancement\n* `ember-set-helper`\n  * [#80](https://github.com/adopted-ember-addons/ember-set-helper/pull/80) feat: add index re-export ([@aklkv](https://github.com/aklkv))\n\n#### :memo: Documentation\n* [#82](https://github.com/adopted-ember-addons/ember-set-helper/pull/82) Update README.md with index re-export example for strict mode ([@SergeAstapov](https://github.com/SergeAstapov))\n* [#74](https://github.com/adopted-ember-addons/ember-set-helper/pull/74) Update README.md with strict mode import example ([@johanrd](https://github.com/johanrd))\n\n#### :house: Internal\n* `ember-set-helper`\n  * [#81](https://github.com/adopted-ember-addons/ember-set-helper/pull/81) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))\n\n#### Committers: 4\n- Alexey Kulakov ([@aklkv](https://github.com/aklkv))\n- Sergey Astapov ([@SergeAstapov](https://github.com/SergeAstapov))\n- [@github-actions[bot]](https://github.com/apps/github-actions)\n- [@johanrd](https://github.com/johanrd)\n"
 }
